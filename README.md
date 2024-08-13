@@ -8,6 +8,6 @@ This is an implementation of an animation system for raylib using the entt libra
 - Support for multiple sprites and keyframes
 - Support for looping and one-shot animations
 
-## Usage
+## Usage
 
 Checkout the example code in example/main.cpp to see how to use the animation system.
